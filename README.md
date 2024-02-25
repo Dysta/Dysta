@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ```
 - 🔭 I’m currently working on ...
@@ -10,8 +10,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ```
-
-**📝 Latest Blog Posts**
+___
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Ma première expérience professionnel](https://dysta.github.io/posts/premiere-exp-pro/)
