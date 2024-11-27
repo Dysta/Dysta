@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there, I'm *Dysta* 👋
+
+Software Engineer based in Paris.
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
